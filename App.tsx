@@ -66,10 +66,10 @@ const styles = StyleSheet.create({
     justifyContent: "space-evenly"
   },
   progressContainer: {
-    borderRadius: 10,
+    borderRadius: 4,
     borderWidth: 1,
     height: 40,
-    width: 300
+    width: 400
   }
 });
 
